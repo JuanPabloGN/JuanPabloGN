@@ -30,16 +30,20 @@
   </a>
   &emsp; 
   <a> 
-     <img alt="Windsurf" src="https://img.shields.io/badge/-Windsurf-black?logo=mongodb&logoColor=white">
+     <img alt="Windsurf" src="https://img.shields.io/badge/-Windsurf-black?logo=Windsurf&logoColor=white">
    </a>
   &emsp;
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
+   <a> 
+     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-green?logo=Kotlin&logoColor=white">
+   </a>
+  &emsp;
 </p>
 
 
-## Conoceme:
+## Contact Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-pablo-gomez-navarrete-b71558191/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"

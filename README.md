@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7222be36-0c59-40ef-9ac1-14d5ff28d6d4)# Hello there I am Juan Pablo Gomez Navarrete👋
+# Hello there I am Juan Pablo Gomez Navarrete👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 

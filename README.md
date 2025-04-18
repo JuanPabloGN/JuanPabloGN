@@ -45,13 +45,29 @@
 
 ## Contact Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/juan-pablo-gomez-navarrete-b71558191/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-     <a href="juanpgnavarrete@gmail.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
-      alt="Viral Bhadeshiya" height="10" width="10" /></a>
-</p>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/juan-pablo-gomez-navarrete-b71558191/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="45"
+         style="margin-right: 10px;" />
+  </a>
+
+<!-- Gmail Icon Link -->
+<a href="mailto:juanpgnavarrete@gmail.com" target="_blank">
+  <img align="center" 
+       src="https://img.icons8.com/color/48/gmail-new.png" 
+       alt="Gmail" 
+       height="40" 
+       width="40"
+      style="margin-down: 15px;"
+    />
+</a>
+
+
+
 
 -----
 <p align="center">

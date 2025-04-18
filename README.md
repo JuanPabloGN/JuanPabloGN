@@ -50,7 +50,7 @@
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
    <a href="juanpgnavarrete@gmail.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+      alt="Viral Bhadeshiya" height="10" width="10" /></a>
 </p>
 
 -----

@@ -30,7 +30,7 @@
   </a>
   &emsp; 
   <a> 
-     <img alt="Windsurf" src="https://img.shields.io/badge/-Windsurf-black?logo=Windsurf&logoColor=white">
+     <img alt="Windsurf" src="https://img.shields.io/badge/-Windsurf-black?logo=WindSurf&logoColor=white">
    </a>
   &emsp;
   <a> 

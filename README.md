@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Automation%20Engineer%20%E2%86%92%20DevOps&descSize=16&descAlignY=58" alt="Juan Pablo Gómez Navarrete — QA Automation Engineer moving into DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%E2%86%92%20Test%20Automation%20%26%20DevOps&descSize=16&descAlignY=58" alt="Juan Pablo Gómez Navarrete — QA Analyst moving into test automation and DevOps" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2C9FD6&center=true&vCenter=true&width=520&lines=E2E+%26+API+test+automation+with+Playwright;CI%2FCD+pipelines+with+GitHub+Actions;Now+learning+Docker%2C+NestJS+%26+AWS" alt="E2E & API test automation · CI/CD pipelines · learning Docker, NestJS & AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2C9FD6&center=true&vCenter=true&width=520&lines=Regression+%26+API+testing+with+Postman;Data+validation+with+SQL;Building+test+automation+with+Playwright" alt="Regression & API testing · SQL data validation · building test automation with Playwright" />
 </p>
 
 <p align="center">
@@ -15,13 +15,14 @@
 
 ## 👋 About me
 
-QA Automation Engineer from Santiago, Chile, moving into **DevOps and backend development**. I spend my days making releases safer: building E2E and API test frameworks, wiring them into CI, and automating everything that gets run twice.
+QA Analyst from Santiago, Chile, with 3+ years making sure software works before it reaches users. Day to day I run regression and API tests and validate data straight in the database. On my own time I'm building **test automation and DevOps** skills through hands-on projects.
 
 - 💼 QA Analyst at **ImageMaker** · previously QA Analyst at **Azurian**
-- 🧪 **Playwright** & **Cypress** frameworks in TypeScript — Page Objects, fixtures, Allure reporting
-- ⚙️ **GitHub Actions** pipelines: test runs, reports and checks on every PR
-- 🌱 Currently learning **Docker, NestJS and AWS** through hands-on portfolio projects
-- 🐧 Daily Linux user (Arch) · VS Code & Neovim
+- 🔁 Regression and API testing with **Postman**
+- 🗄️ Data validation with **SQL**
+- 🧪 Building E2E automation with **Playwright** & TypeScript in my own projects
+- ⚙️ Running tests in CI with **GitHub Actions**
+- 🌱 Next up: **Docker, NestJS and AWS**
 - 🎓 Ingeniería en Informática, Duoc UC
 
 ## 📌 Featured projects
@@ -33,18 +34,22 @@ QA Automation Engineer from Santiago, Chile, moving into **DevOps and backend de
 
 ## 🛠️ Tech stack
 
-**Core** — what I use every day
+**QA & testing** — what I use at work
 <br />
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,github,githubactions,linux&theme=dark" alt="TypeScript, JavaScript, Node.js, Express, Git, GitHub, GitHub Actions, Linux" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" alt="TestRail" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 
-**Testing & QA**
+**Automation & development** — my projects
 <br />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" alt="Cypress" />
-<img src="https://img.shields.io/badge/Allure_Report-FF6F00?style=for-the-badge&logoColor=white" alt="Allure Report" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<br />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,github,githubactions,linux&theme=dark" alt="TypeScript, JavaScript, Node.js, Express, Git, GitHub, GitHub Actions, Linux" />
 
-**Learning now**
+**Learning next**
 <br />
 <img src="https://skillicons.dev/icons?i=docker,nestjs,aws&theme=dark" alt="Docker, NestJS, AWS" />
 

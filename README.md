@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%E2%86%92%20Test%20Automation%20%26%20DevOps&descSize=16&descAlignY=58" alt="Juan Pablo Gómez Navarrete — QA Analyst moving into test automation and DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%E2%86%92%20Test%20Automation%20and%20DevOps&descSize=16&descAlignY=58" alt="Juan Pablo Gómez Navarrete — QA Analyst moving into test automation and DevOps" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2C9FD6&center=true&vCenter=true&width=520&lines=Regression+%26+API+testing+with+Postman;Data+validation+with+SQL;Building+test+automation+with+Playwright" alt="Regression & API testing · SQL data validation · building test automation with Playwright" />
+  <img src="assets/typing.svg" alt="Regression and API testing with Postman · Data validation with SQL · Building test automation with Playwright" />
 </p>
 
 <p align="center">
@@ -55,13 +55,6 @@ QA Analyst from Santiago, Chile, with 3+ years making sure software works before
 **Learning next**
 <br />
 <img src="https://skillicons.dev/icons?i=docker,nestjs,aws&theme=dark" alt="Docker, NestJS, AWS" />
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanPabloGN&show_icons=true&count_private=true&theme=transparent&title_color=2C9FD6&icon_color=2C9FD6&text_color=8b949e&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloGN&layout=compact&theme=transparent&title_color=2C9FD6&text_color=8b949e&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php,html" alt="Top languages" />
-</p>
 
 <!-- Footer -->
 <p align="center">

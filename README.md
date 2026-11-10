@@ -1,6 +1,5 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%E2%86%92%20Test%20Automation%20and%20DevOps&descSize=16&descAlignY=58" alt="Juan Pablo Gómez Navarrete — QA Analyst moving into test automation and DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Juan%20Pablo%20G%C3%B3mez%20Navarrete&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%7C%20Test%20Automation%20%7C%20DevOps&descSize=16&descAlignY=60" alt="Juan Pablo Gómez Navarrete - QA Analyst, Test Automation, DevOps" width="100%" />
 </p>
 
 <p align="center">
@@ -8,55 +7,52 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-pablo-gomez-navarrete-b71558191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:juanpgnavarrete@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Santiago,_Chile_·_open_to_remote-555555?style=for-the-badge" alt="Santiago, Chile — open to remote" />
+  <a href="https://www.linkedin.com/in/juan-pablo-gomez-navarrete-b71558191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:juanpgnavarrete@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Santiago%2C%20Chile-Open%20to%20remote-555555?style=flat" alt="Santiago, Chile - Open to remote" />
 </p>
 
-## 👋 About me
+### Hi, I'm Juan Pablo 👋
 
-QA Analyst from Santiago, Chile, with 3+ years making sure software works before it reaches users. Day to day I run regression and API tests and validate data straight in the database. On my own time I'm building **test automation and DevOps** skills through hands-on projects.
+QA Analyst moving from manual testing into **test automation** and **DevOps**.
+At work I test web systems end to end: functional and regression testing, API testing and SQL data validation.
+On my own time I build automation frameworks with **Playwright + TypeScript** and run them in **CI with GitHub Actions**.
 
-- 💼 QA Analyst at **ImageMaker** · previously QA Analyst at **Azurian**
-- 🔁 Regression and API testing with **Postman**
-- 🗄️ Writing **SQL** queries for test data and validation (DBeaver)
-- ☸️ Monitoring pod status and memory usage on **Kubernetes** with Lens, and freeing up server disk space when needed
-- 🧪 Building E2E automation with **Playwright** & TypeScript in my own projects
-- ⚙️ Running tests in CI with **GitHub Actions**
-- 🌱 Next up: **Docker, NestJS and AWS**
-- 🎓 Ingeniería en Informática, Duoc UC
+- 🔎 **Now:** QA Analyst at ImageMaker (remote) — regression and API testing with Postman, SQL in DBeaver, Kubernetes monitoring with Lens, Jira and Confluence
+- 🤖 **Building:** a Playwright E2E framework with Page Object Model, fixtures, Allure reports and CI
+- 🌱 **Learning next:** Docker, NestJS and AWS
+- 🌎 **Open to:** QA Automation / QA Engineer roles in Santiago or remote — Spanish (native), English (intermediate)
 
-## 📌 Featured projects
+### 📌 Featured projects
 
-| Project | What it shows | Stack |
+| Project | What it proves | Stack |
 |---|---|---|
-| [**Playwright-automation**](https://github.com/JuanPabloGN/Playwright-automation) | E2E framework built from scratch: Page Object Model, custom fixtures, Allure reports, runs on every push via GitHub Actions | Playwright · TypeScript · Allure · GitHub Actions |
-| [**game-catalog-api**](https://github.com/JuanPabloGN/game-catalog-api) | REST API I'm evolving step by step into a full DevOps pipeline: containers, CI/CD and cloud deploy | Node.js · TypeScript · Express |
+| [**Playwright-automation**](https://github.com/JuanPabloGN/Playwright-automation) · [live report](https://juanpablogn.github.io/Playwright-automation/) | E2E suite for saucedemo.com with Page Object Model and fixtures; runs on every push in GitHub Actions and publishes an Allure report to GitHub Pages | Playwright · TypeScript · Allure · GitHub Actions |
+| [**game-catalog-api**](https://github.com/JuanPabloGN/game-catalog-api) | REST API that I'm evolving into a full pipeline: tests, Docker image, CI/CD and cloud deploy | Node.js · TypeScript · Express |
 
-## 🛠️ Tech stack
+### 🛠️ Tech stack
 
-**QA & testing** — what I use at work
-<br />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-<img src="https://img.shields.io/badge/Kubernetes_(Lens)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (Lens)" />
-<img src="https://img.shields.io/badge/WinSCP-4B6EAF?style=for-the-badge&logoColor=white" alt="WinSCP" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+**QA and testing — what I use at work**
 
-**Automation & development** — my projects
-<br />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" alt="Cypress" />
-<br />
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,github,githubactions,linux&theme=dark" alt="TypeScript, JavaScript, Node.js, Express, Git, GitHub, GitHub Actions, Linux" />
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Lens-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-4B6EAF?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+
+**Automation and development — my projects**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure%20Report-FF6F00?style=flat)
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,git,github,githubactions,linux,arch,vscode,vim&perline=11" alt="TypeScript, JavaScript, Node.js, Express, Git, GitHub, GitHub Actions, Linux, Arch, VS Code, Vim" /></a>
 
 **Learning next**
-<br />
-<img src="https://skillicons.dev/icons?i=docker,nestjs,aws&theme=dark" alt="Docker, NestJS, AWS" />
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" />
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nestjs,aws" alt="Docker, NestJS, AWS" /></a>
+
+---
+
+💬 Ask me about regression testing, API testing with Postman, SQL for test data, or how I wired Playwright into GitHub Actions.

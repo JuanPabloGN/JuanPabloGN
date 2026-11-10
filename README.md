@@ -19,7 +19,8 @@ QA Analyst from Santiago, Chile, with 3+ years making sure software works before
 
 - 💼 QA Analyst at **ImageMaker** · previously QA Analyst at **Azurian**
 - 🔁 Regression and API testing with **Postman**
-- 🗄️ Data validation with **SQL**
+- 🗄️ Writing **SQL** queries for test data and validation (DBeaver)
+- ☸️ Monitoring pod status and memory usage on **Kubernetes** with Lens, and freeing up server disk space when needed
 - 🧪 Building E2E automation with **Playwright** & TypeScript in my own projects
 - ⚙️ Running tests in CI with **GitHub Actions**
 - 🌱 Next up: **Docker, NestJS and AWS**
@@ -38,8 +39,10 @@ QA Analyst from Santiago, Chile, with 3+ years making sure software works before
 <br />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+<img src="https://img.shields.io/badge/Kubernetes_(Lens)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (Lens)" />
+<img src="https://img.shields.io/badge/WinSCP-4B6EAF?style=for-the-badge&logoColor=white" alt="WinSCP" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" alt="TestRail" />
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 
 **Automation & development** — my projects

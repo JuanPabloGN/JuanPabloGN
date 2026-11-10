@@ -27,7 +27,7 @@ On my own time I build automation frameworks with **Playwright + TypeScript** an
 
 | Project | What it proves | Stack |
 |---|---|---|
-| [**Playwright-automation**](https://github.com/JuanPabloGN/Playwright-automation) · [live report](https://juanpablogn.github.io/Playwright-automation/) | E2E suite for saucedemo.com with Page Object Model and fixtures; runs on every push in GitHub Actions and publishes an Allure report to GitHub Pages | Playwright · TypeScript · Allure · GitHub Actions |
+| [**Playwright-automation**](https://github.com/JuanPabloGN/Playwright-automation) | E2E suite for saucedemo.com with Page Object Model and fixtures; runs on every push in GitHub Actions and generates an Allure report | Playwright · TypeScript · Allure · GitHub Actions |
 | [**game-catalog-api**](https://github.com/JuanPabloGN/game-catalog-api) | REST API that I'm evolving into a full pipeline: tests, Docker image, CI/CD and cloud deploy | Node.js · TypeScript · Express |
 
 ### 🛠️ Tech stack

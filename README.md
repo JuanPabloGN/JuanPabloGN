@@ -20,7 +20,7 @@ On my own time I build automation frameworks with **Playwright + TypeScript** an
 
 - 🔎 **Now:** QA Analyst at ImageMaker (remote) — regression and API testing with Postman, SQL in DBeaver, Kubernetes monitoring with Lens, Jira and Confluence
 - 🤖 **Building:** a Playwright E2E framework with Page Object Model, fixtures, Allure reports and CI
-- 🌱 **Learning next:** Docker, NestJS and AWS
+- 🌱 **Learning next:** Docker, AWS, Terraform and Python-
 - 🌎 **Open to:** QA Automation / QA Engineer roles in Santiago or remote — Spanish (native), English (intermediate)
 
 ### 📌 Featured projects
@@ -51,7 +51,7 @@ On my own time I build automation frameworks with **Playwright + TypeScript** an
 
 **Learning next**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nestjs,aws" alt="Docker, NestJS, AWS" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,terraform,python" alt="Docker, AWS, Terraform, Python" /></a>
 
 ---
 
